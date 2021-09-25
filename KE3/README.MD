@@ -19,5 +19,5 @@ https://www.topcoder.com/thrive/articles/Introduction%20to%20String%20Searching%
 
 ### 11475 - Extend to Palindrome
 
-* [UVa 11475 Problem] (https://onlinejudge.org/external/114/11475.pdf)
+* [UVa 11475 Problem](https://onlinejudge.org/external/114/11475.pdf)
 * [UVa 11475 - Implementation](https://f0rth3r3c0rd.wordpress.com/2012/02/16/uva-11475-extend-to-palindrome/#comments)
