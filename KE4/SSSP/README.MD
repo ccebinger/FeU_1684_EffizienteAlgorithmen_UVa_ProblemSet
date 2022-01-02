@@ -6,7 +6,7 @@ TODO ???
 
 ## Bellman–Ford-Algorithmus
 
-* [A2OJ: Bellman-Ford Problems](https://a2oj.com/Category80.html)
+* [A2OJ: Bellman-Ford Problems](https://a2oj.com/category?ID=80)
 
 ### UVa 558 - Wormholes
 
@@ -17,7 +17,7 @@ TODO ???
 ## Dijkstra-Algorithmus
 
 * [CP-Algorithms: Dijkstra-Algorithmus](https://cp-algorithms.com/graph/dijkstra.html)
-* [A2OJ: Dijkstra](https://a2oj.com/Category165.html)
+* [A2OJ: Dijkstra](https://a2oj.com/category?ID=165)
 * [Algorithmist Dijkstra](https://algorithmist.com/wiki/Dijkstra%27s_algorithm)
 
 ### UVa 117 - The Postal Worker Rings Once

@@ -6,7 +6,7 @@
 
 * [Algorithmist Floyd-Warshall](https://algorithmist.com/wiki/Floyd-Warshall%27s_algorithm)
 * [CP Algorithms APSP Floyd-Warshall](https://cp-algorithms.com/graph/all-pair-shortest-path-floyd-warshall.html)
-* [A2OJ](https://a2oj.com/Category131.html)
+* [A2OJ](https://a2oj.com/category?ID=131)
 
 ### UVa 423 - MPI Maelstrom
 
