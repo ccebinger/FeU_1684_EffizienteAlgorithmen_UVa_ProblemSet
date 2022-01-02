@@ -34,6 +34,19 @@ https://www.topcoder.com/thrive/articles/Introduction%20to%20String%20Searching%
 
 ## Levenstein Distance
 
+* [A20J: Edit Distance](https://a2oj.com/category?ID=103)
+
+### 164 - String Computer
+
+* [UVa 164 - String Computer problem set pdf](https://onlinejudge.org/external/1/164.pdf)
+* [UVa 164 - String Computer Implementation in C++](https://www.life2coding.com/uva-online-solution-164-string-computer-problem/)
+
+### UVa 1207 - AGTC
+
+* [UVa 1207 - AGTC - problem set pdf](https://onlinejudge.org/external/12/1207.pdf)
+* [UVa 1207 - AGTC - solution/implementation in C/C++](https://shoaibeee05.blogspot.com/2015/06/uva-1207-solution-agtc_20.html)
+* [Uva 1207 - AGTC - solution/implementation in C](https://iuconvergent.wordpress.com/2018/04/18/uva-1207-agtc-solved/)
+
 ### 10029 - Edit Step Ladders
 
 * [UVa 10029 Problem set](https://onlinejudge.org/external/100/10029.pdf)
